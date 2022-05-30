@@ -11,11 +11,11 @@
 
     @include('includes.header')
 
-    {{-- <main>
+    <main class="container">
 
         @yield('content')
 
-    </main> --}}
+    </main>
 
 
 

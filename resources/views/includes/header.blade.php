@@ -1,3 +1,5 @@
+<h1 class="text-center m-3 text-uppercase text-primary">Boolean station</h1>
+
 <header>
     <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
